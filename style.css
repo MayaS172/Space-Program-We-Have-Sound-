@@ -1,0 +1,14 @@
+body {
+    background-color:white;
+  
+}
+.button {
+    background-color: azure;
+    width: 100px;
+    height: 30px;
+    border-radius: 12px;
+    border-color: lightblue;
+}
+#sandboxArea{
+    color: red;
+}
